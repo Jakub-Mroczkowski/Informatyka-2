@@ -1,0 +1,7 @@
+ilosc krokow=1.000000		dlugosc kroku=5.000000		blad eulera=0.999501		blad R-K4=0.970747
+ilosc krokow=2.000000		dlugosc kroku=2.500000		blad eulera=0.998366		blad R-K4=0.805966
+ilosc krokow=4.000000		dlugosc kroku=1.250000		blad eulera=0.993187		blad R-K4=0.369249
+ilosc krokow=8.000000		dlugosc kroku=0.625000		blad eulera=0.970179		blad R-K4=0.070705
+ilosc krokow=16.000000		dlugosc kroku=0.312500		blad eulera=0.892673		blad R-K4=0.007557
+ilosc krokow=32.000000		dlugosc kroku=0.156250		blad eulera=0.726956		blad R-K4=0.000613
+ilosc krokow=64.000000		dlugosc kroku=0.078125		blad eulera=0.507545		blad R-K4=0.000044
